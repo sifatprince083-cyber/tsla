@@ -1,0 +1,23 @@
+{
+ "name": "BD Tesla Slapper",
+ "short_name": "Tesla Slapper",
+ "lang": "bn",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0d1612",
+ "theme_color": "#0d1612",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
